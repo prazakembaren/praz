@@ -2,4 +2,3 @@ streamlit
 pandas
 astropy
 plotly
-time
